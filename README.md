@@ -2,10 +2,7 @@
 
 Este repositório é o meu campo de provas, onde exploro novas tecnologias e experimento com códigos de maneira descompromissada. Aqui é onde a mágica e o mistério do desenvolvimento se encontram, num estilo digno dos antigos mistérios do Egito.
 
-
-<img src="![png git anubis](https://github.com/user-attachments/assets/0708f9c5-ca8c-469e-9655-2e0a04d92cf5)" 
-     style="min-width: 300px; max-width: 300px; width: 300px; float: right;" 
-     alt="Anubis Logo">
+<img src="https://github.com/user-attachments/assets/8f3bb9da-2236-45c9-976f-12c72ce1e9cc" width="200" alt="C-png git anubis" style="margin-left: 15px; margin-bottom: 30px;">
 
 
 ---
@@ -25,4 +22,4 @@ Este repositório é o meu campo de provas, onde exploro novas tecnologias e exp
 ---
 
 ## 🎯 Objetivo
-Este repositório é dedicado ao aprendizado e à experimentação, um verdadeiro templo digital para desenvolvimento e inovação. É um espaço para testar limites e, talvez, encontrar tesouros oc
+Este repositório é dedicado ao aprendizado e à experimentação, um verdadeiro templo digital para desenvolvimento e inovação. É um espaço para testar limites e, talvez, encontrar tesouros ocultos.
