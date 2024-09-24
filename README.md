@@ -5,6 +5,11 @@ Este repositório é o meu campo de provas, onde exploro novas tecnologias e exp
 <img src="https://github.com/user-attachments/assets/8f3bb9da-2236-45c9-976f-12c72ce1e9cc" width="200" alt="C-png git anubis" style="margin-left: 15px; margin-bottom: 30px;">
 
 
+### Vizualizações de Perfil
+
+![](https://count.getloli.com/get/@BEPb.github.readme)
+</br>
+
 ---
 
 ## 🌟 O que você encontrará aqui:
